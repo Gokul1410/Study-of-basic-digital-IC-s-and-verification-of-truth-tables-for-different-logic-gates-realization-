@@ -60,13 +60,25 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by:GOKUL.C 
+
+RegisterNumber:23014093
+![Screenshot 2023-12-12 210203](https://github.com/Gokul1410/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153058321/9b64d97f-8983-4aef-9ca3-ac0628f85bda)
+
 */
 Logic symbol & Truthtable
+![Screenshot 2023-12-12 210217](https://github.com/Gokul1410/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153058321/a89cda01-e545-4ccf-bffd-21b6f9ff5129)
+
 RTL realization
+![Screenshot 2023-12-12 210238](https://github.com/Gokul1410/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153058321/9a64560e-4f51-41de-8b52-2baafcc19d0a)
+
+Output Waveform:
+![Screenshot 2023-12-12 210256](https://github.com/Gokul1410/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153058321/10887caa-b5e3-4607-8c70-cb4840a51795)
+
 Output:
-RTL
+![Screenshot 2023-12-12 210311](https://github.com/Gokul1410/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153058321/f5787f65-d83e-4f97-990c-826e5794e197)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
